@@ -1,0 +1,14 @@
+.UploadSection {
+  width: 500px;
+}
+.save-doc-btn {
+  height: 45px;
+  margin-left: 5px;
+  padding: 2px 25px 2px 25px;
+  background: transparent;
+  border: 2px solid red;
+  border-radius: 5px;
+  color: red;
+  font-weight: 600;
+  font-size: 18px;
+}
